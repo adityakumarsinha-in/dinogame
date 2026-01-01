@@ -3,7 +3,7 @@
 A simple browser-based dinosaur game inspired by the Chrome offline game. Built using HTML, CSS, and Vanilla JavaScript to practice and apply core front-end development concepts.
 
 ## 🔗 Live Demo
-👉 [Play the Game](https://imaksofficial.github.io/dinogame/)
+👉 [Play the Game](https://adityakumarsinha-in.github.io/dinogame/)
 
 ---
 
